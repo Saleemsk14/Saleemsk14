@@ -1,29 +1,31 @@
-# Hi 👋, I'm Saleem Shaik
 
-### Business Analyst | AI-Assisted Product Development | Building Digital Products
+# 👋 Hi, I'm Saleem Shaik
 
-I'm passionate about transforming business ideas into modern digital products using AI tools, product strategy, and AI-assisted development.
+### Business Analyst • AI Product Builder • Digital Product Strategist
+
+I specialize in understanding business problems and transforming ideas into modern digital products using AI tools, product strategy, and AI-assisted development.
+
+I'm passionate about building scalable, user-focused solutions while continuously exploring AI technologies and modern web development.
+---
+
+## 🚀 Currently Building
+
+- 🤖 AI-Powered Digital Products
+- 📊 Business Analysis & Product Strategy
+- 🌐 Modern Web Applications
+- 💡 Startup Solutions
+- ⚡ AI-Assisted Development Workflows
 
 ---
 
-## 🚀 What I'm Working On
-
-- Building AI-powered digital products
-- Business Analysis & Product Strategy
-- Modern Web Applications
-- Startup Ideas
-- AI-Assisted Development
-
----
-
-## 🌱 Currently Learning
+## 📚 Currently Learning
 
 - Next.js
 - TypeScript
 - Git & GitHub
 - Prompt Engineering
 - AI Agents
-- MCP & RAG
+- MCP
 
 ---
 
@@ -34,7 +36,7 @@ I'm passionate about transforming business ideas into modern digital products us
 - Gemini
 - Git
 - GitHub
-- VS Code
+- Anti-Gravity
 - Cursor
 - Next.js
 - React
@@ -42,19 +44,30 @@ I'm passionate about transforming business ideas into modern digital products us
 
 ---
 
-## 📌 Featured Project
+## 🚀 Featured Projects
 
-### 🚀 Thrikaal Verse
+### 🌟 Thrikaal Verse
+An AI-powered digital platform focused on building future-ready products and intelligent user experiences.
 
-A modern digital platform focused on creating future-ready AI-powered products and innovative web experiences.
+### 📅 HourBook *(In Progress)*
+A smart sports venue booking platform.
 
----
+### 🎬 CineVerse *(Concept)*
+An entertainment ecosystem connecting creators, fans, and opportunities.
+
+## 🎯 2026 Goals
+
+- Launch AI-powered SaaS products
+- Build a professional portfolio
+- Master AI-assisted development
+- Contribute to open source
+- Learn cloud deployment
 
 ## 📫 Connect With Me
 
 - LinkedIn
 - Portfolio (Coming Soon)
-
+- Email
 ---
 
 ⭐ Always learning. Always building.
