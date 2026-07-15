@@ -1,6 +1,5 @@
 <img width="1983" height="793" alt="banner png" src="https://github.com/user-attachments/assets/020729d6-567a-4b4f-a377-1d99c3674950" />
 
-
 # 💫 About Me:
 ## 👨‍💻 About Me<br><br>I'm a **Business Analyst** with a passion for transforming ideas into practical, user-focused digital products.<br><br>I enjoy bridging the gap between business requirements and technology by leveraging **AI tools**, **product strategy**, and **AI-assisted development** to design modern solutions.<br><br>Currently, I'm expanding my technical skills in **Python**, **Cybersecurity**, **Web Development**, **Prompt Engineering**, and **AI Agents** while building innovative projects and exploring emerging technologies.<br><br>I believe that the best digital products are created by combining strategic thinking, continuous learning, and a strong focus on solving real-world problems.
 
