@@ -1,12 +1,4 @@
-
-
-<p align="center">
-  <img src="./banner.png" width="100%" alt="Banner">
-</p>
-
-<p align="center">
-  <img src="./signature.png" width="480" alt="Saleem Shaik Signature">
-</p>
+<img width="1983" height="793" alt="banner png" src="https://github.com/user-attachments/assets/020729d6-567a-4b4f-a377-1d99c3674950" />
 
 
 # 💫 About Me:
